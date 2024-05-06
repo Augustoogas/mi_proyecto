@@ -1,1 +1,4 @@
 parcial ogas augusto
+
+cambio para la nueva rama 
+llamada nueva caracteristica
